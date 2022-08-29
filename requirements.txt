@@ -4,9 +4,6 @@ setuptools>=26
 twine
 wheel>=0.29
 
-# data science
-pandas
-
 # tests/linter
 black
 coverage
@@ -17,3 +14,8 @@ yapf
 # utilities
 six>=1.14
 joblib
+
+# data science
+pandas
+Wikipedia-API
+openai
